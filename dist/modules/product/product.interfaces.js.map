@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "order.interfaces.js",
+  "sourceRoot": "",
+  "sources": [
+    "../../../src/modules/order/order.interfaces.ts"
+  ],
+  "names": [],
+  "mappings": ""
+}
